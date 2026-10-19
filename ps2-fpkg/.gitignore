@@ -2,5 +2,6 @@ __pycache__/
 *.pyc
 tools/*
 !tools/LEEME.txt
+!tools/build_pkgtool.py
 *_work/
 *.pkg
